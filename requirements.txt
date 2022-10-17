@@ -1,0 +1,7 @@
+skbel==2.1.12
+scikit-learn==1.1.1
+matplotlib>=3.3.4
+scipy>=1.6.1
+numpy>=1.20.1
+scikit-fmm==2021.2.2
+loguru==0.6.0
